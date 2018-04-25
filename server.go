@@ -8,8 +8,8 @@ import (
 	"github.com/urfave/negroni"
 	"gopkg.in/tylerb/graceful.v1"
 
-	"github.com/iammallik/go-skeleton/app/config"
-	route "github.com/iammallik/go-skeleton/app/http"
+	"github.com/iammallik/sample-heroku-go/app/config"
+	route "github.com/iammallik/sample-heroku-go/app/http"
 )
 
 func main() {

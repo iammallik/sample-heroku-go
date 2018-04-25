@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/gorilla/mux"
-	"github.com/iammallik/go-skeleton/app/http/handlers"
+	"github.com/iammallik/sample-heroku-go/app/http/handlers"
 )
 
 type Route struct {

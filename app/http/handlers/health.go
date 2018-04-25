@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/iammallik/go-skeleton/app/config"
+	"github.com/iammallik/sample-heroku-go/app/config"
 )
 
 // Liveness handles calls to the '/liveness' endpoint and checks that the
